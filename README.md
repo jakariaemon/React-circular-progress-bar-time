@@ -1,2 +1,2 @@
-# React-circular-progress-bar-time
+# react-circular-progress-bar
 Created with CodeSandbox
